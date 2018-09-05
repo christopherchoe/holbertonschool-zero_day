@@ -1,0 +1,1 @@
+This project is abount Vagrant, Ubuntu, Virtual Machines, and zero-day. These help define what Holberton students use in order to test projects in the environment the projects are graded in. Vagrant is the way we configure and access virtual machines which we are using to test things in a different OS (Ubuntu is a popular OS for the cloud and containers)
