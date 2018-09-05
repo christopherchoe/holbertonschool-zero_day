@@ -1,0 +1,1 @@
+Project on opening a file within emacs
