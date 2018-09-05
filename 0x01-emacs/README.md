@@ -1,1 +1,1 @@
-Project on opening a file within emacs
+Project on different commands in emacs
